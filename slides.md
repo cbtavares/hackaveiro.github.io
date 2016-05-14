@@ -320,6 +320,9 @@ Estas funções foram popularizadas pelo GitHub mas já se encontram disponívei
 
 # Dúvidas?
 
+# Feedback
+Muito bom
+
 [luisfaceira@gmail.com](mailto:luisfaceira@gmail.com)
 
 [hackaveiro.org](https://hackaveiro.org)
